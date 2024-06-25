@@ -15,6 +15,12 @@ public class FinalprojectApplication {
 	{
 		return "welcome ";
 	}
+	
+	public String getmessage1()
+
+	{
+		return "welcome ";
+	}
 	public static void main(String[] args) {
 		SpringApplication.run(FinalprojectApplication.class, args);
 	}
